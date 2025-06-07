@@ -1,0 +1,20 @@
+{
+    "eventos": [
+      {
+        "titulo": "Independencia de Bolivia",
+        "año": 1825,
+        "departamento": "Chuquisaca",
+        "tipo": "político",
+        "descripcion": "Proclamación de la independencia en Sucre.",
+        "coordenadas": [-19.0475, -65.2596]
+      },
+      {
+        "titulo": "Guerra del Chaco",
+        "año": 1932,
+        "departamento": "Chaco",
+        "tipo": "conflicto",
+        "descripcion": "Conflicto bélico entre Bolivia y Paraguay.",
+        "coordenadas": [-16.5, -60.5]
+      }
+    ]
+  }
