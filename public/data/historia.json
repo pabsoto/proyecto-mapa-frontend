@@ -1,0 +1,178 @@
+{
+  "revoluciones": [
+    {
+      "titulo": "Revolución de Chuquisaca",
+      "fecha": "25 de mayo de 1809",
+      "ubicacion": "Chuquisaca (hoy Sucre)",
+      "lideres": "Jaime de Zudáñez, Bernardo Monteagudo, Juan Antonio Álvarez de Arenales",
+      "importancia": "Considerada el primer grito libertario de América Latina; depuso al presidente de la Real Audiencia",
+      "enlace": "#"
+    },
+    {
+      "titulo": "Revolución de La Paz",
+      "fecha": "16 de julio de 1809",
+      "ubicacion": "La Paz",
+      "lideres": "Pedro Domingo Murillo, Juan Antonio Figueroa, Melchor Jiménez",
+      "importancia": "Se proclamó la independencia y se instauró la Junta Tuitiva",
+      "enlace": "#"
+    },
+    {
+      "titulo": "Revolución de Cochabamba",
+      "fecha": "14 de septiembre de 1810",
+      "ubicacion": "Cochabamba",
+      "lideres": "Francisco del Rivero, Esteban Arze, Melchor Guzmán",
+      "importancia": "Derrocamiento del gobernador y adhesión a la Junta de Buenos Aires",
+      "enlace": "#"
+    },
+    {
+      "titulo": "Batalla de Aroma",
+      "fecha": "14 de noviembre de 1810",
+      "ubicacion": "Cercanías de Sica Sica",
+      "lideres": "Esteban Arze",
+      "importancia": "Victoria patriota que fortaleció el movimiento independentista en Cochabamba",
+      "enlace": "#"
+    },
+    {
+      "titulo": "Insurrección de Omasuyos, Pacajes y Larecaja",
+      "fecha": "Junio de 1811",
+      "ubicacion": "Intendencia de La Paz",
+      "lideres": "Juan Manuel Muñecas, Juan Manuel Cáceres",
+      "importancia": "Levantamiento indígena tras la derrota patriota en la Batalla de Huaqui",
+      "enlace": "#"
+    },
+    {
+      "titulo": "Republiqueta de Ayopaya",
+      "fecha": "1811–1825",
+      "ubicacion": "Región de Ayopaya y Sicasica",
+      "lideres": "José Miguel Lanza, José Buenaventura Zárate",
+      "importancia": "Guerrilla que mantuvo la resistencia contra los realistas durante más de una década",
+      "enlace": "#"
+    },
+    {
+      "titulo": "Republiquetas del Alto Perú",
+      "fecha": "1811–1825",
+      "ubicacion": "Diversas regiones del Alto Perú",
+      "lideres": "Juana Azurduy, Manuel Ascencio Padilla, Vicente Camargo, entre otros",
+      "importancia": "Guerrillas locales que mantuvieron la lucha independentista en zonas rurales y montañosas",
+      "enlace": "#"
+    },
+    {
+      "titulo": "Rebelión de Olañeta",
+      "fecha": "1824",
+      "ubicacion": "Regiones del sur del Alto Perú",
+      "lideres": "Pedro Antonio Olañeta",
+      "importancia": "Olañeta se rebeló contra el virrey La Serna, debilitando al bando realista",
+      "enlace": "#"
+    },
+    {
+      "titulo": "Batalla de Tumusla",
+      "fecha": "1 de abril de 1825",
+      "ubicacion": "Tumusla, Potosí",
+      "lideres": "Carlos Medinaceli vs. Pedro Antonio Olañeta",
+      "importancia": "Derrota y muerte de Olañeta, último jefe realista; fin del dominio español en el Alto Perú",
+      "enlace": "#"
+    },
+    {
+      "titulo": "Declaración de Independencia",
+      "fecha": "6 de agosto de 1825",
+      "ubicacion": "Sucre (antigua Chuquisaca)",
+      "lideres": "",
+      "importancia": "Proclamación oficial de la independencia del Alto Perú con el nombre de República de Bolívar, luego Bolivia",
+      "enlace": "#"
+    }
+  ],
+  "personajes": [
+    {
+      "nombre": "Pedro Domingo Murillo",
+      "fechas": "1757–1810",
+      "anioRelevancia": 1809,
+      "rol": "Líder de la Revolución de La Paz",
+      "contribucion": "Firmó el primer acta de independencia en el Alto Perú",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Pedro_Domingo_Murillo.jpg",
+      "enlace": "#"
+    },
+    {
+      "nombre": "Juana Azurduy",
+      "fechas": "1780–1862",
+      "anioRelevancia": 1813,
+      "rol": "Guerrillera independentista",
+      "contribucion": "Lideró batallas clave en las Republiquetas",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/80/Juana_Azurduy.jpg",
+      "enlace": "#"
+    },
+    {
+      "nombre": "Manuel Ascencio Padilla",
+      "fechas": "1759–1816",
+      "anioRelevancia": 1811,
+      "rol": "Militar independentista",
+      "contribucion": "Comandó fuerzas insurgentes junto a Juana Azurduy",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/1/14/Manuel_Ascencio_Padilla.jpg",
+      "enlace": "#"
+    },
+    {
+      "nombre": "Esteban Arze",
+      "fechas": "1770–1825",
+      "anioRelevancia": 1810,
+      "rol": "Caudillo cochabambino",
+      "contribucion": "Participó en la defensa de Cochabamba y luchó contra los realistas",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Esteban_Arze.jpg",
+      "enlace": "#"
+    },
+    {
+      "nombre": "José Manuel Baca (Cañoto)",
+      "fechas": "1783–1829",
+      "anioRelevancia": 1815,
+      "rol": "Guerrillero de las Republiquetas",
+      "contribucion": "Combatió a las fuerzas realistas en Santa Cruz",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Jose_Manuel_Baca_Cañoto.jpg",
+      "enlace": "#"
+    },
+    {
+      "nombre": "Vicente Camargo",
+      "fechas": "1777–1816",
+      "anioRelevancia": 1813,
+      "rol": "Líder de la Republiqueta de Cinti",
+      "contribucion": "Organizó movimientos armados en el sur del Alto Perú",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Vicente_Camargo.jpg",
+      "enlace": "#"
+    },
+    {
+      "nombre": "Ubaldo Aguirre",
+      "fechas": "1764–1816",
+      "anioRelevancia": 1811,
+      "rol": "Patriota potosino",
+      "contribucion": "Apoyó activamente la revolución de 1811 en Potosí",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/41/Ubaldo_Aguirre.jpg",
+      "enlace": "#"
+    },
+    {
+      "nombre": "Ignacio Warnes",
+      "fechas": "1772–1816",
+      "anioRelevancia": 1813,
+      "rol": "Gobernador de Santa Cruz",
+      "contribucion": "Lideró la defensa de Santa Cruz contra los realistas hasta su muerte en El Pari",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ignacio_Warnes.jpg",
+      "enlace": "#"
+    },
+    {
+      "nombre": "Antonio José de Sucre",
+      "fechas": "1795–1830",
+      "anioRelevancia": 1825,
+      "rol": "General libertador",
+      "contribucion": "Lideró el ejército libertador y fue primer presidente de Bolivia",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Antonio_José_de_Sucre_por_Rivera.jpg",
+      "enlace": "#"
+    },
+    {
+      "nombre": "Simón Bolívar",
+      "fechas": "1783–1830",
+      "anioRelevancia": 1825,
+      "rol": "Libertador de América",
+      "contribucion": "Apoyó la independencia del Alto Perú y redactó la primera constitución",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/37/Simon_Bolivar.jpg",
+      "enlace": "#"
+    }
+  ]
+
+  
+}

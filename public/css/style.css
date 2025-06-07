@@ -1,0 +1,169 @@
+/* ===== [ESTILOS ORIGINALES - SIN CAMBIOS] ===== */
+#map {
+    height: 70vh;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    z-index: 1;
+}
+
+.filter-container {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 15px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+/* ===== [PANEL HISTORIA MEJORADO] ===== */
+.panel-historia {
+    width: 350px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    height: 70vh;
+    overflow: hidden;
+    border: 1px solid #e0e0e0;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Pestañas mejoradas */
+.tabs {
+    display: flex;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #f0f0f0;
+}
+
+.tab-button {
+    flex: 1;
+    padding: 10px 0;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    font-weight: 600;
+    color: #666;
+    transition: all 0.3s ease;
+    border-bottom: 3px solid transparent;
+    font-size: 0.9rem;
+}
+
+.tab-button.active {
+    color: #2E7D32;
+    border-bottom: 3px solid #4CAF50;
+    background: transparent;
+}
+
+/* Slider mejorado */
+.filtro-fechas {
+    margin: 15px 0;
+    padding: 0 5px;
+}
+
+.filtro-fechas label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 600;
+    color: #444;
+    font-size: 0.9rem;
+}
+
+.slider {
+    width: 100%;
+    height: 6px;
+    accent-color: #4CAF50;
+    cursor: pointer;
+}
+
+/* Contenedores de contenido */
+.contenedor-celdas {
+    flex-grow: 1;
+    overflow-y: auto;
+    padding-right: 8px;
+    margin-top: 5px;
+}
+
+/* Celdas de eventos mejoradas */
+.celda-evento {
+    background: #f9f9f9;
+    border-left: 3px solid #4CAF50;
+    border-radius: 0 5px 5px 0;
+    padding: 12px 15px;
+    margin-bottom: 12px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.celda-evento:hover {
+    transform: translateX(3px);
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.08);
+    background: #fff;
+}
+
+.celda-evento h3 {
+    color: #2E7D32;
+    margin: 0 0 8px 0;
+    font-size: 1.05rem;
+}
+
+.celda-evento p {
+    margin: 5px 0;
+    font-size: 0.85rem;
+    line-height: 1.4;
+    color: #555;
+}
+
+.celda-evento strong {
+    color: #333;
+}
+
+/* Iconos en las celdas */
+.celda-evento .icono {
+    margin-right: 5px;
+    color: #4CAF50;
+}
+
+/* Scrollbar personalizada */
+.contenedor-celdas::-webkit-scrollbar {
+    width: 6px;
+}
+
+.contenedor-celdas::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 4px;
+}
+
+.contenedor-celdas::-webkit-scrollbar-thumb {
+    background: #c1c1c1;
+    border-radius: 4px;
+}
+
+.contenedor-celdas::-webkit-scrollbar-thumb:hover {
+    background: #a8a8a8;
+}
+
+/* ===== [ESTILOS GENERALES] ===== */
+.flex-grow-1 {
+    flex-grow: 1;
+    min-width: 0;
+}
+
+/* Ajustes responsivos */
+@media (max-width: 992px) {
+    .panel-historia {
+        width: 100%;
+        height: auto;
+        max-height: 40vh;
+        margin-bottom: 20px;
+    }
+    
+    #map {
+        height: 50vh;
+    }
+}
+.botones-anio {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
